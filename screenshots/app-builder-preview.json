@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "NINETY — boutique hotel, Tashkent",
+      "hasCanvas": false,
+      "bodyTextLen": 3996,
+      "bodyTextHash": "c5b307bba72b16a80574ac796c9ac3c9c99c485efac3fb7e22ae75cd124f43c0",
+      "bodyTextPrefix": "NINETY Дом Номера Кадры Отзывы Место uz ru en +998 70 082 90 90 ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "NINETY — boutique hotel, Tashkent",
+      "hasCanvas": false,
+      "bodyTextLen": 3961,
+      "bodyTextHash": "0580c9830a74a33171468661c54a90c0b35142fd80bc98d32cb37d9799d8c9c4",
+      "bodyTextPrefix": "NINETY uz ru en ЯККАСАРАЙ · ТАШКЕНТ Тихий дом на шестнадцать ком",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
